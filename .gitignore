@@ -1,0 +1,24 @@
+# Virtual Environments
+venv/
+
+# Python compiled bytecode cache
+__pycache__/
+*.pyc
+
+# Model artifacts and weights
+models/*.pth
+models/*.joblib
+*.pth
+*.joblib
+
+# Dataset files
+data/
+*.csv
+
+# Environment Variables
+.env
+
+# OS/ Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
